@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "aa82bdfb"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The lack of saturation in the plants gives the bleak sense as though the radiation that is being protested has already had an irreversible effect on the world.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://ids.lib.harvard.edu/ids/iiif/472352529",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:370.30438232421875,1266.220458984375,306.83905029296875,293.4146728515625"
+      },
+      "id": "cf7a3b4a"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "92b258e5"
   }
 ]
