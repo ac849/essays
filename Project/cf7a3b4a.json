@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The Princesses dressed in white body suits and silver purge masks look inhuman and startling against the natural landscape. Providing a sense of dread for the future.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://ids.lib.harvard.edu/ids/iiif/472352529",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1223.7005615234375,909.52001953125,212.8695068359375,782.439453125"
+      },
+      "id": "cf7a3b4a"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "aa82bdfb"
+  }
+]
