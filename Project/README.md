@@ -12,9 +12,11 @@ Through his series *Desert Cantos* and his trespassing activities, he met a grou
 
 
 Sources
-1. Gallery, Fraenkel. “Richard Misrach.” Fraenkel Gallery, July 12, 2024. https://fraenkelgallery.com/artists/richard-misrach. 
-2. Harvard. Harvard Art Museums. Accessed September 14, 2024. https://harvardartmuseums.org/collections/person/34896. 
-3. Harvard. “Princesses against Plutonium, Nuclear Test Site, Nevada.” Harvard Art Museums, 2018. https://harvardartmuseums.org/collections/object/361428?position=1&context=person&id=34896. 
+1. Caponigro, John. “Richard Misrach.” John Paul Caponigro, August 29, 2023. https://www.johnpaulcaponigro.com/blog/photographer-convos/richard-misrach/. 
+2. Gallery, Fraenkel. “Richard Misrach.” Fraenkel Gallery, July 12, 2024. https://fraenkelgallery.com/artists/richard-misrach. 
+3. Harvard. Harvard Art Museums. Accessed September 14, 2024. https://harvardartmuseums.org/collections/person/34896. 
+4. Harvard. “Princesses against Plutonium, Nuclear Test Site, Nevada.” Harvard Art Museums, 2018. https://harvardartmuseums.org/collections/object/361428?position=1&context=person&id=34896. 
+
 
 
 
