@@ -82,5 +82,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "5a5780f8"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The wide frame of the photo give the viewer ample view of the sprawling landscape. Driving home the feeling of isolation and dread that humans can have such a profound effect on something so vast and incomprehensible.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://ids.lib.harvard.edu/ids/iiif/472352529",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2188.32568359375,61.87720489501953,116.982177734375,1659.297966003418"
+      },
+      "id": "cf7a3b4a"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d1523948"
   }
 ]
