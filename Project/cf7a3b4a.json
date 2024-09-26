@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "92b258e5"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The harsh lighting, reflective masks, and lack of color all come together to depict a bleak and isolated scene as the Princesses almost blend into the background. Fitting with Misrach's theme of letting the circumstances speak for themselves.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://ids.lib.harvard.edu/ids/iiif/472352529",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:790.2903442382812,909.52001953125,101.640380859375,107.39361572265625"
+      },
+      "id": "cf7a3b4a"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "03f3fdfa"
   }
 ]
