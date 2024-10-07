@@ -7,6 +7,24 @@ Human advancement is affecting the environment, an undeniable truth for anyone w
 
 Through his series *Desert Cantos* and his trespassing activities, he met a group of activists who inspired a unique photo. *Princesses Against Plutonium* is a thought-provoking photo representing how man and nature clash and how people's actions can affect the environment. The photo is of 9 women who, in the spring of 1988, invaded the Nevada Nuclear test site in full body suits and purge masks to hand out pamphlets to workers. These pamphlets contained information warning workers of the hazardous and often invisible effects of nuclear radiation on the human body. These women were arrested relatively quickly. However, their rebellion inspired several 'copy cat' invasions and arrests that eventually caused a severe enough backup in the legal system that the Supreme Court decided to cut its losses and dismiss the charges against the original nine princesses. This photo and many of his other photos radiate this sense of isolation, bleakness, and dread. He achieves the vibe of bleakness through a lack of saturation, which helps the viewer focus on the disturbing and impactful scenes he is representing rather than being distracted. It also helps magnify this sense and idea that the effect humans are having on the environment is depriving it of its vibrancy and how we are killing it. He shows the isolation through the wide frame, which reveals miles of uninhabited wasteland, with a close-up of the Princesses showing how small and isolated we all are in the grander scheme of nature, especially with how we are affecting it. Finally, the incredible sense of dread is mainly conveyed through the Princesses in their full white suits and purge masks; they look like inhuman villains straight out of a sci-fi film, and again, the lack of saturation in the photo and the harshness of the light gives the viewer a sense that the radiation from the test site is having a noticeable effect right in front of the viewers' eyes.
 
+# Mammals and Mortality
+
+.ve-media https://iiif.harvardartmuseums.org/manifests/object/371387 right
+.ve-media https://iiif.harvardartmuseums.org/manifests/object/371384 left
+
+*Desert Cantos* was filled with many jarring photos that sought to shed light on the beauty and brutality of this forgotten part of the ecosystem in the U.S. While Misrach did his fair share of photographing people as a way to document these barren landscapes he also turned to the wildlife to demostrate the brutality of this environment. He often documented dead animals to show the harmful effect that humans and the military had on this environment. Two such photos are shown above with the on the nose naming being *Dead Animals #1* and *Dead Fish *.
+
+#Borders
+.ve-media https://iiif.harvardartmuseums.org/manifests/object/361166 right
+.ve-media https://iiif.harvardartmuseums.org/manifests/object/361167 left
+
+People and animals both serve as powerful tools to demonstrate the effect that but sometimes there are undeniable scars that humanity leaves on our deserts that need no other explanation to make an impact. That is a feeling and artistic choice that Misrach leans into with his photos of the U.S. Mexico border. Showing the 'wall' and a shooting range that border patrol uses. Both show the unnaturla and out of place scars that humanity and the military has left on the land.
+
+#Documentary
+.ve-video https://www.youtube.com/watch?v=mYjCGYw3HXU
+
+Misrach's complicated relationship with Americas deserts is something he has talked about a fair bit. One such example is in Art21's short documentary called *Richard Misrach in "Borderlands"*
+
 
 
 
