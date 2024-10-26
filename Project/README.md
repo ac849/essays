@@ -11,7 +11,7 @@ Through his series *Desert Cantos* and his trespassing activities, he met a grou
 .ve-media https://iiif.harvardartmuseums.org/manifests/object/371387 right
 .ve-media https://iiif.harvardartmuseums.org/manifests/object/371384 left
 
-*Desert Cantos* was filled with many jarring photos that sought to shed light on the beauty and brutality of this forgotten part of the ecosystem in the U.S. While Misrach did his fair share of photographing people and protestors as a way to document these barren landscapes he also turned to the wildlife to demonstrate the brutal otherworldliness of this environment. He often documented the dead animals left in the wake of man-made accidents or events to show the harmful effect that humans and the military had on this environment. Two such photos are shown above, with on-the-nose names being *Dead Animals #1* and ==*Dead Fish *=={Q64159023}.
+*Desert Cantos* was filled with many jarring photos that sought to shed light on the beauty and brutality of this forgotten part of the ecosystem in the U.S. While Misrach did his fair share of photographing people and protestors as a way to document these barren landscapes he also turned to the wildlife to demonstrate the brutal otherworldliness of this environment. He often documented the dead animals left in the wake of man-made accidents or events to show the harmful effect that humans and the military had on this environment. Two such photos are shown above, with on-the-nose names being ==*Dead Animals #1*=={Q64159023} and *Dead Fish *.
 
 # Borderlands
 .ve-media https://iiif.harvardartmuseums.org/manifests/object/361166 right
