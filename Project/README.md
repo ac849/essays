@@ -19,10 +19,10 @@ Through his series *Desert Cantos* and his trespassing activities, he met a grou
 
 Protestors and animals both serve as powerful tools to demonstrate humans' effect on the environment. However, sometimes, humanity leaves undeniable scars on our deserts that need no other explanation to make an impact. That is a feeling and artistic choice that Misrach leans into with his photos of the U.S.-Mexico border. Showing the 'wall' and a shooting range that border patrol uses. Both show the wrongness and out-of-place feeling one gets when witnessing these man-made structures intended to hurt people and the environment.
 
-# Documentary
+# Digital Media
 .ve-video https://www.youtube.com/watch?v=mYjCGYw3HXU
 
-Misrach's complicated relationship with America's deserts is something he has done various interviews and books on. One such example is in Art21's short documentary called *Richard Misrach in "Borderlands"*
+Misrach's complicated relationship with America's deserts is something he has done various interviews on like the [*Archival Interview With Richard Misrach* ](https://aperture.org/editorial/archival-interview-richard-misrach/)with aperture focusing more on his lanscape photography for the series and the interview with Musee Magazine [*From Our Archives:Richard Misrach* ](https://museemagazine.com/features/2020/6/24/from-our-archives-richard-misrach)focusing more on his photos of the border. One such example is in Art21's short documentary called *Richard Misrach in "Borderlands"*
 
 
 
