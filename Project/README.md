@@ -17,7 +17,7 @@ Through his series *Desert Cantos* and his trespassing activities, he met a grou
 .ve-media https://iiif.harvardartmuseums.org/manifests/object/361166 right
 .ve-media https://iiif.harvardartmuseums.org/manifests/object/361167 left
 
-Protestors and animals both serve as powerful tools to demonstrate humans' effect on the environment. However, sometimes, humanity leaves undeniable scars on our deserts that need no other explanation to make an impact. That is a feeling and artistic choice that Misrach leans into with his photos of the U.S.-Mexico border. Showing the 'wall' and a shooting range that border patrol uses. Both show the wrongness and out-of-place feeling one gets when witnessing these man-made structures intended to hurt people and the environment.
+Protestors and animals both serve as powerful tools to demonstrate humans' effect on the environment. However, sometimes, humanity leaves undeniable scars on our deserts that need no other explanation to make an impact. That is a feeling and artistic choice that Misrach leans into with his photos of the U.S.-Mexico border a subset of hist *Desert Cantos* series called ==*Border Cantos*=={Q128617874}. Showing the 'wall' and a shooting range that border patrol uses. Both show the wrongness and out-of-place feeling one gets when witnessing these man-made structures intended to hurt people and the environment.
 
 # Digital Media
 .ve-video https://www.youtube.com/watch?v=mYjCGYw3HXU
