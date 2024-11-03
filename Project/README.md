@@ -22,7 +22,7 @@ Protestors and animals both serve as powerful tools to demonstrate humans' effec
 # Digital Media
 .ve-video https://www.youtube.com/watch?v=mYjCGYw3HXU
 
-Misrach's complicated relationship with America's deserts is something he has done various interviews on like the [*Archival Interview With Richard Misrach* ](https://aperture.org/editorial/archival-interview-richard-misrach/)with aperture focusing more on his lanscape photography for the series and the interview with Musee Magazine [*From Our Archives:Richard Misrach* ](https://museemagazine.com/features/2020/6/24/from-our-archives-richard-misrach)focusing more on his photos of the border. One such example is in Art21's short documentary called *Richard Misrach in "Borderlands"*
+Misrach's complicated relationship with America's deserts is something he has done various interviews on like the [*Archival Interview With Richard Misrach* ](https://aperture.org/editorial/archival-interview-richard-misrach/)with aperture focusing more on his lanscape photography for the series and the interview with Musee Magazine [*From Our Archives:Richard Misrach* ](https://museemagazine.com/features/2020/6/24/from-our-archives-richard-misrach)focusing more on his photos of the border. In addition to interview he has done lectures like [*Conversations with Artists: Richard Misrach, Desert Cantos and Other Landscapes*](https://soundcloud.com/nationalgalleryofart/conversations-with-artists-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) and even small documentaries with one such example being Art21's short documentary called *Richard Misrach in "Borderlands"*
 
 
 
