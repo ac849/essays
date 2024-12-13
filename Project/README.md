@@ -32,7 +32,6 @@ Misrach's complicated relationship with America's deserts is something he has do
 
 Since its development, photography has been a way to document the world around us. This does not mean that it cannot be manipulated or staged in a way that can dramatize the situation or the subject of photography, which can become a dangerous slope to stand on when artists document political issues like climate change or our borders. Richard Misrach, through his teachings and photography, pushes against the practice of dramatizing documentary photography to show that the things that artists aim to document are bold and haunting enough to get the point across without the artists staging or tampering with the subject matter. Among all his works, this is most apparent in his Desert Cantos series, which is an all-encompassing series that gives a scathing review of government nuclear testing, climate change, and border control.
 
-Footnotes
 
 [^1]: Artnet, ["Richard Misrach"] (https://news.artnet.com/art-world/richard-misrach-art21-1946853) in *artnet*, n.d.
 
