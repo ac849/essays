@@ -37,7 +37,7 @@ Since its development, photography has been a way to document the world around u
 
 [^2]: Tucker, A., Misrach, R., Solnit, R., Museum of Fine Arts, H., & Museum of Fine Arts, H. *Crimes and splendors : the desert cantos of Richard Misrach / Anne Wilkes Tucker with an essay by Rebecca Solnit First edition* (The Museum of Fine Arts Houston, 1996).
 
-[^3]: Hsuan L. Hsu, ["Reclamations"] (https://www.environmentandsociety.org/exhibitions/risk-and-militarization/reclamations) in *Representing Environmental Risk in the Landscapes of US Militarization*, Envirnoment & Society Portal, 2014.
+[^3]: Misrach, R., & Sontag, S. *Violent legacies : three cantos / by Richard Misrach ; fiction by Susan Sontag. First edition* (Aperture 1992).
 
 [^4]: Misrach, R., & Misrach, M. W. *Bravo 20 : the bombing of the American West / Richard Misrach with Myriam Weisang Misrach* (Johns Hopkins University Press, 1990).
 
