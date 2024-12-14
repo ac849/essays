@@ -2,7 +2,7 @@
 
 Human advancement is affecting the environment, an undeniable truth for anyone who pays attention to the world around them. Unfortunately, this effect is negative, and while many people look the other way, there has been an increasing number of people pushing for these changes to be acknowledged in recent years. As a result, art, which has always been a record of the changes in our social and natural environments, reflects this with an increasing number of artists creating pieces inspired by these environmental changes. 
 
-Among these artists is an American photographer, ==Richard Misrach=={Q7327841}.[^1] Richard Misrach, as a photographer, found many forms of ==documentary=={Q615498} and aesthetic forms of photography exploitative, misleading, and untruthful for those viewing the photo. So in his pursuit to show the unfiltered truth of how humanity and the government are affecting the environment, he turned his sights to the U.S.'s deserts, forgotten barren wastelands to most Americans, but to him, ground zero for the devastating effects humanity can have on the environment.[^2] mission led to him becoming a master trespasser of many desert government facilities to document the harsh realities, which he later combined into a series called [*Desert Cantos*](https://fraenkelgallery.com/shop/desert-cantos#doc-content).
+Among these artists is an American photographer, ==Richard Misrach=={Q7327841}.[^1] Richard Misrach, as a photographer, found many forms of ==documentary=={Q615498} and aesthetic forms of photography exploitative, misleading, and untruthful for those viewing the photo. So in his pursuit to show the unfiltered truth of how humanity and the government are affecting the environment, he turned his sights to the U.S.'s deserts, forgotten barren wastelands to most Americans, but to him, ground zero for the devastating effects humanity can have on the environment.[^2] Mission led to him becoming a master trespasser of many desert government facilities to document the harsh realities, which he later combined into a series called [*Desert Cantos*](https://fraenkelgallery.com/shop/desert-cantos#doc-content).
     
 # Princesses against Plutonium
 .ve-media https://iiif.harvardartmuseums.org/manifests/object/361428
@@ -33,16 +33,15 @@ Misrach's complicated relationship with America's deserts is something he has do
 Since its development, photography has been a way to document the world around us. This does not mean that it cannot be manipulated or staged in a way that can dramatize the situation or the subject of photography, which can become a dangerous slope to stand on when artists document political issues like climate change or our borders. Richard Misrach, through his teachings and photography, pushes against the practice of dramatizing documentary photography to show that the things that artists aim to document are bold and haunting enough to get the point across without the artists staging or tampering with the subject matter. Among all his works, this is most apparent in his Desert Cantos series, which is an all-encompassing series that gives a scathing review of government nuclear testing, climate change, and border control.
 
 
-[^1]: Artnet, ["Richard Misrach"] (https://news.artnet.com/art-world/richard-misrach-art21-1946853) in *artnet*, n.d.
+[^1]: Hoelscher, S. [“A Collision between Beauty and Ugliness: An Interview with Richard Misrach,"] (https://doi.org/10.1080/2373566X.2017.1335606) in *GeoHumanities, 3(2), 451-488*, 2017.
 
-[^2]: John Paul Caponigro, [“Richard Misrach,”] (https://www.johnpaulcaponigro.com/blog/photographer-convos/richard-misrach/) in *John Paul Caponigro Illuminating Creativity*, n.d. 
+[^2]: Tucker, A., Misrach, R., Solnit, R., Museum of Fine Arts, H., & Museum of Fine Arts, H. *Crimes and splendors : the desert cantos of Richard Misrach / Anne Wilkes Tucker with an essay by Rebecca Solnit First edition* (The Museum of Fine Arts Houston, 1996).
 
 [^3]: Hsuan L. Hsu, ["Reclamations"] (https://www.environmentandsociety.org/exhibitions/risk-and-militarization/reclamations) in *Representing Environmental Risk in the Landscapes of US Militarization*, Envirnoment & Society Portal, 2014.
 
-[^4]: MFAH Collections, ["Richard Misrach
-Dead Fish, Bravo 20 Bombing Range, Nevada"] (https://emuseum.mfah.org/objects/26654/dead-fish-bravo-20-bombing-range-nevada) in *Museum of Fine Arts, Houston*, n.d.
+[^4]: Misrach, R., & Misrach, M. W. *Bravo 20 : the bombing of the American West / Richard Misrach with Myriam Weisang Misrach* (Johns Hopkins University Press, 1990).
 
-[^5]: Fraenkel Gallery, ["Richard Misrach"] (https://fraenkelgallery.com/artists/richard-misrach) in *Fraenkel Artists*, Fraenkel Gallery, n.d.
+[^5]: Galindo, G. *Border cantos / Richard Misrach, Guillermo Galindo ; introduction and epilogue = introducción y epílogo, Josh Kun First edition* (Aperture, 2016).
 
 
 
